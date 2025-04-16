@@ -1,5 +1,3 @@
-# gossip-lstm-predictive-maintenance
-Distributed LSTM-based predictive maintenance model using Gossip Neural Networks on the NASA C-MAPSS dataset.
 # Gossip-Based LSTM for Predictive Maintenance
 
 In this project, I worked on a decentralized predictive maintenance system using LSTM networks and a simple gossip communication strategy. The goal was to detect failures in turbofan engines by training local models on each engine’s data and then sharing model weights between nodes in a distributed setup.

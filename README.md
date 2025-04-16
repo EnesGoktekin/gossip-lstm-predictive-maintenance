@@ -2,6 +2,13 @@
 
 In this project, I worked on a decentralized predictive maintenance system using LSTM networks and a simple gossip communication strategy. The goal was to detect failures in turbofan engines by training local models on each engine’s data and then sharing model weights between nodes in a distributed setup.
 
+## 📉 Prediction vs Actual
+
+This plot shows the comparison between the actual labels and the model predictions on the test set:
+
+![Prediction Comparison](comparison.png)
+
+
 ## 📊 Dataset
 I used the NASA C-MAPSS dataset, which contains sensor readings from jet engines. You can find the version I used here:  
 👉 [Kaggle - NASA C-MAPSS Dataset](https://www.kaggle.com/datasets/maternusherold/pred-maintanance-data)

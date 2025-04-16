@@ -32,8 +32,7 @@ I used the NASA C-MAPSS dataset, which contains sensor readings from jet engines
 - Best practices for time-series modeling with LSTM  
 - The importance of preprocessing and label engineering in PdM
 
-## 🗂️ Files
-- `pdm-nasamotorsgossip.ipynb`: Main notebook containing data loading, preprocessing, training, and gossip communication logic
+
 
 ---
 

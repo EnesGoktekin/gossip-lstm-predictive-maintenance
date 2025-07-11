@@ -6,7 +6,7 @@ In this project, I worked on a decentralized predictive maintenance system using
 
 This plot shows the comparison between the actual labels and the model predictions on the test set:
 
-![Prediction Comparison](comparison.png)
+![Prediction Comparison](xcomparison.png)
 
 
 ## 📊 Dataset
